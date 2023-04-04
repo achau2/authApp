@@ -1,0 +1,24 @@
+instalar de manera global nodemon
+npm install -g nodemon
+
+instalar localmente en el proyecto 'express' (abrir proyecto con visual studio y en la terminal escribir comando)
+npm install express
+
+cambiar en las configuraciones de variables de entorno, a las utilizadas en MongoDB
+Entrar a mongoAtlas, levantar la instancia, agregar la IP y luego obtener ruta de conexión y pass.
+
+levantar aplicacion con:
+nodemom index.js
+
+npm run dev (llama al script dev que se encuentra en el package.json del proyecto).
+
+
+
+
+
+Alternativas Heroku
+00:00 Introducción
+00:26 Railway.app
+01:05 Render.com
+01:38 Vercel.com
+02:21 Fly.io
