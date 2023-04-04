@@ -18,3 +18,4 @@ const UsuarioSchema = Schema({
 });
 
 module.exports = model('Usuario', UsuarioSchema );
+//cometario para pruebas en github
